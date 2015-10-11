@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2012\Projects\alarm\alarm\bin\Release\alarm.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\alarm\alarm\bin\Release\alarm.exe
+c:\users\administrator\documents\visual studio 2012\Projects\alarm\alarm\bin\Release\alarm.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\alarm\alarm\obj\Release\alarm.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\alarm\alarm\obj\Release\alarm.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\alarm\alarm\obj\Release\alarm.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\alarm\alarm\obj\Release\alarm.exe
+c:\users\administrator\documents\visual studio 2012\Projects\alarm\alarm\obj\Release\alarm.pdb
